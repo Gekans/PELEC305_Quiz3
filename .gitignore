@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+node_modules/
+dist/
+build/
+
+backend/staticfiles/
